@@ -1,0 +1,29 @@
+.link-hover:hover
+{
+    border-style: solid; 
+    border-color:purple;
+}
+
+
+.homes
+{
+    background-color:bisque;
+}
+
+
+.cars
+{
+    background-color:honeydew;
+}
+
+
+.portraits
+{
+    background-color:khaki;
+}
+
+
+.others
+{
+    background-color:cornsilk;
+}
